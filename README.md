@@ -38,10 +38,10 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,react,arduino,docker,linux,grafana,androidstudio&perline=10" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
