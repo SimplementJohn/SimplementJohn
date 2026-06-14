@@ -22,6 +22,7 @@
 <h3 align="left">Contributions:</h3>
 <p align="left">
 <a href="https://github.com/RackulaLives/Rackula" target="blank"><img align="center" src="https://raw.githubusercontent.com/SimplementJohn/SimplementJohn/main/rackula.png" alt="Rackula" height="30" width="30" /></a>
+&nbsp;<a href="https://github.com/RackulaLives/Rackula" target="blank"><b>Rackula</b></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
