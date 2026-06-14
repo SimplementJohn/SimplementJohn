@@ -21,8 +21,8 @@
 
 <h3 align="left">Contributions:</h3>
 <p align="left">
-<a href="https://github.com/RackulaLives/Rackula" target="blank"><img align="center" src="https://github.githubassets.com/favicons/favicon.svg" alt="Rackula" height="20" width="20" /></a>
-&nbsp;<a href="https://github.com/RackulaLives/Rackula" target="blank"><b>Rackula</b></a> — rack layout designer
+<a href="https://github.com/RackulaLives/Rackula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rackula" height="25" width="25" /></a>
+&nbsp;<a href="https://github.com/RackulaLives/Rackula" target="blank"><b>Rackula</b></a> rack layout designer
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
