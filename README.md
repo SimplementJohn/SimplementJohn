@@ -68,5 +68,6 @@
 ### 🤝 Contributions
 
 <a href="https://github.com/RackulaLives/Rackula" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RackulaLives&repo=Rackula&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://raw.githubusercontent.com/SimplementJohn/SimplementJohn/main/rackula.png" alt="Rackula" height="30" width="30" />
 </a>
+&nbsp;<a href="https://github.com/RackulaLives/Rackula" target="blank"><b>Rackula</b></a>
