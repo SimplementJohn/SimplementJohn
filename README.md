@@ -57,6 +57,14 @@
 
 ---
 
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simplementjohn&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
 ### 🤝 Contributions
 
 <a href="https://github.com/RackulaLives/Rackula" target="blank">
